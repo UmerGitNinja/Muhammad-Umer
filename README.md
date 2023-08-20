@@ -1,5 +1,5 @@
 ![logo](https://github.com/UmerGitNinja/UmerGitNinja/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
+<h1 align="center">Hi, I'm Muhammad Umer</h1>
 <h3 align="center">
   A passionate Web Developer who loves to build something new
 </h3>

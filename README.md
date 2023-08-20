@@ -1,3 +1,4 @@
+![logo](https://github.com/UmerGitNinja/UmerGitNinja/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">
   A passionate Web Developer who loves to build something new
@@ -19,9 +20,10 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React, Node.js** - 👨‍💻 All of my projects are
-available at [Coming Soon!](Coming Soon!) - 📫 How to reach me
-**https://www.linkedin.com/in/umer-khan-a67194179/** - ⚡ Fun fact **This web
+- 🌱 I’m currently learning **React, Node.js** -
+- 👨‍💻 All of my projects are available at Portfolio: <a>Coming Soon!</a>
+- 📫 How to reach me **https://www.linkedin.com/in/umer-khan-a67194179/**
+- ⚡ Fun fact **This web
 developer can make a keyboard sing and a mouse dance, turning lines of code into
 digital symphonies.**
 

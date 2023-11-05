@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, Next.js** -
 - 👨‍💻 All of my projects are available at My Portfolio: <a>  https://muhammadumer.dev/</a>
-- 📫 How to reach me **https://www.linkedin.com/in/umer-khan-a67194179/**
+- 📫 How to reach me **https://www.linkedin.com/in/umer-khan-front-end-dev/**
 - ⚡ Fun fact **This web
 developer can make a keyboard sing and a mouse dance, turning lines of code into
 digital symphonies.**

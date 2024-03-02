@@ -1,185 +1,94 @@
-![logo](https://github.com/UmerGitNinja/UmerGitNinja/blob/main/Github%20Banner.png)
-<h1 align="center">Hi, I'm Muhammad Umer</h1>
+<a href="https://komarev.com/ghpvc/?username=UmerGitNinja">
+  <img align="right" src="https://komarev.com/ghpvc/?username=UmerGitNinja&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 <h3 align="center">
-  A passionate Web Developer who loves to build something new
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://amuhammadumer.dev">Muhammad Umer Khan</a></b>
+        </samp>
 </h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLV5Geut9rpUynmk9Gp8QQTDimNu9aJE40hA&usqp=CAU" alt="Banner" width="400" align="right">
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=umergitninja&label=Profile%20views&color=0e75b6&style=flat"
-    alt="umergitninja"
-  />
+<p align="center"> 
+  <samp>
+    <br>
+    「 A passionate Web Developer who loves to build something new 」
+    <br>
+    <br>
+  </samp>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
-      alt=""
-  /></a>
+<p align="center">
+ <a href="https://muhammadumer.dev" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="M.Umer" />
+ </a>
+ <a href="https://www.linkedin.com/in/umer-khan-front-end-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="M.Umer"/>
+ </a>
+ <a href="https://twitter.com/Umer81496923" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="M.Umer"/>
+ </a>
+ <a href="https://www.instagram.com/umerkhann__" target="_blank" alt="M.Umer">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="M.Umer" />
+ </a>
 </p>
+<br />
 
-- 🌱 I’m currently learning **React, Node.js, Next.js** -
-- 👨‍💻 All of my projects are available at My Portfolio: <a>  https://muhammadumer.dev/</a>
-- 📫 How to reach me **https://www.linkedin.com/in/umer-khan-front-end-dev/**
-- ⚡ Fun fact **This web
-developer can make a keyboard sing and a mouse dance, turning lines of code into
-digital symphonies.**
+# About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/umer-khan-front-end-dev/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="umer khan"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
+<p>
+ <img align="right" width="350" src="./developer.svg" alt="Dev" />
   
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/UmerGitNinja/UmerGitNinja/issues)
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
+🚀 &emsp; Passionate about the art of coding and eager to explore the depths of programming landscapes.<br/><br/>
+🌱 &emsp; Thrive on the excitement of unraveling new features and continuously expanding my coding repertoire<br><br/>
+✉️ &emsp; Connect with me at: umerdbz2k@gmail.com<br/><br/>
+👨‍💻 &emsp; Let's dive into discussions about anything tech-related [here](https://github.com/UmerGitNinja/UmerGitNinja/issues). I'm all ears!
 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
+</p>
+
+<br/>
+<br/>
+<br/>
+
+## Languages
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/UmerGitNinja">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmerGitNinja&theme=radical&border=7F3FBF&background=0D1117" alt="Umer's GitHub streak"/>
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=umergitninja&show_icons=true&locale=en&layout=compact"
-    alt="umergitninja"
-  />
+<p align="center">
+  <a href="https://github.com/UmerGitNinja">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmerGitNinja&theme=radical" alt="Umer's GitHub Contribution"/>
+  </a>
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=umergitninja&show_icons=true&locale=en"
-    alt="umergitninja"
-  />
-</p>
+<a> 
+    <a href="https://github.com/UmerGitNinja"><img alt="Umer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=UmerGitNinja&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/UmerGitNinja"><img alt="Umer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=UmerGitNinja&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=umergitninja&"
-    alt="umergitninja"
-  />
-</p>
+![Umer's Graph](https://github-readme-activity-graph.vercel.app/graph?username=UmerGitNinja&custom_title=Umer's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)

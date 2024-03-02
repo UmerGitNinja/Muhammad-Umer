@@ -37,11 +37,6 @@
 <p>
  <img align="right" width="350" src="./developer.svg" alt="Dev" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/UmerGitNinja/UmerGitNinja/issues)
-
 🚀 &emsp; Passionate about the art of coding and eager to explore the depths of programming landscapes.<br/><br/>
 🌱 &emsp; Thrive on the excitement of unraveling new features and continuously expanding my coding repertoire<br><br/>
 ✉️ &emsp; Connect with me at: umerdbz2k@gmail.com<br/><br/>

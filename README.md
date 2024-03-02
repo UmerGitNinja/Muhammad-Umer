@@ -35,8 +35,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="./developer.svg" alt="Dev" />
-  
+
 🚀 &emsp; Passionate about the art of coding and eager to explore the depths of programming landscapes.<br/><br/>
 🌱 &emsp; Thrive on the excitement of unraveling new features and continuously expanding my coding repertoire<br><br/>
 ✉️ &emsp; Connect with me at: umerdbz2k@gmail.com<br/><br/>

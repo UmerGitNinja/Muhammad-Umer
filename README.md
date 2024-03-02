@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <a href="https://muhammadumer.dev" target="blank">
+ <a href="https://muhammadumer.dev" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="M.Umer" />
  </a>
  <a href="https://www.linkedin.com/in/umer-khan-front-end-dev/" target="_blank">

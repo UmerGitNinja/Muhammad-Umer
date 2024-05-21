@@ -3,7 +3,7 @@
 </a>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://amuhammadumer.dev">Muhammad Umer Khan</a></b>
+                <b><a target="_blank" href="https://muhammadumer.dev">Muhammad Umer Khan</a></b>
         </samp>
 </h3>
 

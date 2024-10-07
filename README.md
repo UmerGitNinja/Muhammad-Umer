@@ -3,7 +3,9 @@
 </a>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://muhammadumer.vercel.app/">Muhammad Umer Khan</a></b>
+                <b>
+                  <a target="_blank" href="https://muhammadumer.vercel.app/">Muhammad Umer Khan</a>
+                </b>
         </samp>
 </h3>
 
@@ -17,7 +19,7 @@
 </p>
 
 <p align="center">
- <a href="https://muhammadumer.dev" target="_blank">
+ <a href="https://muhammadumer.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="M.Umer" />
  </a>
  <a href="https://www.linkedin.com/in/umer-khan-front-end-dev/" target="_blank">

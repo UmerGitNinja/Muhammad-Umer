@@ -41,7 +41,7 @@
 🚀 &emsp; Passionate about the art of coding and eager to explore the depths of programming landscapes.<br/><br/>
 🌱 &emsp; Thrive on the excitement of unraveling new features and continuously expanding my coding repertoire<br><br/>
 ✉️ &emsp; Connect with me at: umerdbz2k@gmail.com<br/><br/>
-👨‍💻 &emsp; Let's dive into discussions about anything tech-related [here](https://github.com/UmerGitNinja/UmerGitNinja/issues). I'm all ears!
+👨‍💻 &emsp; Let's dive into discussions about anything tech-related [here](https://github.com/UmerGitNinja/Muhammad-Umer/issues). I'm all ears!
 
 </p>
 
@@ -91,7 +91,7 @@
 
 <a> 
     <!-- <a href="https://github.com/UmerGitNinja"><img alt="Umer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=UmerGitNinja&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-    <a href="https://github.com/UmerGitNinja"><img alt="Umer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=UmerGitNinja&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/UmerGitNinja"><img alt="Umer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=UmerGitNinja&langs_count=12&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
